@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi 👋, My name is Daniel Tchannikov!
 <!--
 **Daniel-Developer-p/Daniel-Developer-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

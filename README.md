@@ -8,7 +8,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-developer-p&layout=compact&theme=onedark&langs_count=15" />
 </div>
 
-- 🔭 I’m currently working on [C++](https://ru.wikipedia.org/wiki/C%2B%2B), [Golang](https://golang.org), [Kotlin](https://kotlinlang.org), [C#](https://docs.microsoft.com/ru-ru/dotnet/), and [Rust](http://rust-lang.org/)
+- 🔭 I’m currently working on [C++](https://ru.wikipedia.org/wiki/C%2B%2B), [Golang](https://golang.org), [Kotlin](https://kotlinlang.org), [C#](https://docs.microsoft.com/ru-ru/dotnet/), [Ruby](https://www.ruby-lang.org/en/) and [Rust](http://rust-lang.org/)
 
 <br/>
 

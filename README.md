@@ -5,7 +5,7 @@
 
 <div>
 <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=daniel-developer-p&count_private=true&include_all_commits=true&theme=onedark" alt="daniel-developer-p" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-developer-p&layout=compact&theme=onedark&langs_count=15" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-developer-p&layout=compact&theme=dark&langs_count=15" />
 </div>
 
 - 🔭 I’m currently working on [C++](https://ru.wikipedia.org/wiki/C%2B%2B), [Golang](https://golang.org), [JS](https://ru.wikipedia.org/wiki/JavaScript), [Haskell](https://www.haskell.org), [Rust](http://rust-lang.org/) and [Swift](https://swift.org/about/)

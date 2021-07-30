@@ -12,7 +12,7 @@
 
 <br/>
 
-<!-- <img src="https://activity-graph.herokuapp.com/graph?username=Crackmindedsk&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" /> -->
+<img src="https://activity-graph.herokuapp.com/graph?username=Crackmindedsk&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" /> 
 <!--     https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg -->
 
 <h3 align="left">Connect with me: </h3>

@@ -12,6 +12,7 @@
 
 <br/>
 
+https://activity-graph.herokuapp.com/graph?username=Daniel-Developer-p&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=fals
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">

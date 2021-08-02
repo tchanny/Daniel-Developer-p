@@ -8,7 +8,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-developer-p&layout=compact&theme=dark&langs_count=15" />
 </div>
 
-- 🔭 I’m currently working on [C++](https://ru.wikipedia.org/wiki/C%2B%2B), [Golang](https://golang.org), [Python](https://www.python.org), [Kotlin](http://kotlinlang.org), [Typescript](http://typescriptlang.org) and [Swift](https://swift.org/about/)
+- 🔭 I’m currently working on [C++](https://ru.wikipedia.org/wiki/C%2B%2B), [Golang](https://golang.org), [Python](https://www.python.org), [Typescript](http://typescriptlang.org) and [Swift](https://swift.org/about/)
 
 <br/>
 

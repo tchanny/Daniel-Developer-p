@@ -8,12 +8,14 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-developer-p&layout=compact&theme=dark&langs_count=15" />
 </div>
 
-- 🔭 I’m currently working on [C++](https://ru.wikipedia.org/wiki/C%2B%2B), [Golang](https://golang.org), [Python](https://www.python.org), [Typescript](http://typescriptlang.org) and [Swift](https://swift.org/about/)
+- 🔭 I’m currently working on [C++](https://ru.wikipedia.org/wiki/C%2B%2B), [Java](https://www.oracle.com/index.html)
 
 <br/>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=Daniel-Developer-p&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" /> 
 <!--     https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg -->
+
+![Snake animation](https://github.com/Daniel-Developer-p/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">

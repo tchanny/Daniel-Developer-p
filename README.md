@@ -13,8 +13,6 @@
 
 <br/>
 
-![Snake animation](https://github.com/Daniel-Developer-p/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
 <h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/14818895/daniel-developer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="daniel-developer" height="30" width="40" /></a>

@@ -8,7 +8,7 @@
 <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=daniel-developer-p&count_private=true&include_all_commits=true&theme=onedark" alt="daniel-developer-p" />
 </div>
 
-- 🔭 I’m currently working on [C++](https://ru.wikipedia.org/wiki/C%2B%2B), [TypeScript](https://www.typescriptlang.org/), [React](https://ru.reactjs.org)
+- 🔭 I’m currently working on [C++](https://ru.wikipedia.org/wiki/C%2B%2B), [TypeScript](https://www.typescriptlang.org/), [React](https://ru.reactjs.org) and developmnet for [iOS](https://ru.wikipedia.org/wiki/IOS)
 
 <br/>
 

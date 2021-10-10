@@ -2,7 +2,8 @@
 
 <h3 align="center">A 13 years old developer from Saint-Petersburg</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-developer-p&layout=compact&theme=dark&langs_count=10" alt="Daniel-Developer-p" /></a> </p> 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-developer-p&layout=compact&theme=dark&langs_count=10"" alt="Daniel-Developer-p" /></a> </p> 
 
 <div>
 <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=daniel-developer-p&count_private=true&include_all_commits=true&theme=onedark" alt="daniel-developer-p" />

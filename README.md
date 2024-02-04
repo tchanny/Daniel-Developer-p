@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daniel Tchannikov</h1>
+<h1 align="center">Hi 👋, I'm Daniil Tchannikov</h1>
 
 <h3 align="center">A 15 years old developer from Saint-Petersburg</h3>
 
